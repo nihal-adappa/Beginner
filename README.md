@@ -1,2 +1,2 @@
 # Beginner
-First repo
+First repository
